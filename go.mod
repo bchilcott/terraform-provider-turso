@@ -1,4 +1,4 @@
-module terraform-provider-turso
+module github.com/bchilcott/terraform-provider-turso
 
 go 1.21.0
 
